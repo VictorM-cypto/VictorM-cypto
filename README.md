@@ -1,6 +1,6 @@
 ## Hola a todos 👋
 ## Me llamo Víctor Manuel Medina Korri 😄
-![Descripción de la imagen](images/nombre-de-la-imagen.png)   
+![Imagen divertida para rellnar](images/nombre-de-la-imagen.png)   
 <!--
 **VictorM-cypto/VictorM-cypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
