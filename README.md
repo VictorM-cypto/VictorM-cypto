@@ -1,6 +1,8 @@
 ## Hola a todos 👋
 ## Me llamo Víctor Manuel Medina Korri 😄
-![Imagen divertida para rellnar](images/nombre-de-la-imagen.png)   
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?text=Hey¡Todos! 🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/> 
+</p>   
 <!--
 **VictorM-cypto/VictorM-cypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
