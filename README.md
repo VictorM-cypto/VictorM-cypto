@@ -24,20 +24,6 @@ ign="left">
 
 <img width="500" height="500" alt="kirby-kirby-line-sticker" src="https://github.com/user-attachments/assets/3f315919-7c17-4823-a508-94513ad52f04" />
 
-<h3 align="left">📊 Mi Historial de GitHub!</h3>
-
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <!-- Tarjeta de Estadísticas Generales (Izquierda) -->
-    <td width="50%" valign="top">
-      <img src="https://vercel.app" alt="Estadísticas de GitHub" width="100%">
-    </td>
-    <!-- Tarjeta de Lenguajes Más Usados (Derecha) -->
-    <td width="50%" valign="top">
-      <img src="https://vercel.app" alt="Lenguajes más usados" width="100%">
-    </td>
-  </tr>
-</table>
 
 <!--
 **VictorM-cypto/VictorM-cypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
