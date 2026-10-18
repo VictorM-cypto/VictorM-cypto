@@ -22,7 +22,7 @@ ign="left">
 
 <img width="500" height="500" alt="images" src="https://github.com/user-attachments/assets/1583418e-31ca-4cc5-b3a5-cd820fdab189" />
 
-<img width="200" height="170" alt="kirby-kirby-line-sticker" src="https://github.com/user-attachments/assets/3f315919-7c17-4823-a508-94513ad52f04" />
+<img width="500" height="500" alt="kirby-kirby-line-sticker" src="https://github.com/user-attachments/assets/3f315919-7c17-4823-a508-94513ad52f04" />
 
 
 <!--
