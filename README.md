@@ -14,6 +14,9 @@ ign="left">
 
 <img width="50" height="50" alt="php-icon-svg-download-png-3817962" src="https://github.com/user-attachments/assets/641b3248-c0a1-4da1-90a0-f7d2b0a3c3ea" />
 
+<img width="50" height="50" alt="linux-icon-svg-download-png-9057949" src="https://github.com/user-attachments/assets/e7b064f5-1aa2-4ed4-87fe-ca0444422083" />
+
+
 <br>
 <br>
 <img width="500" height="500" alt="java-programming-language-text_272306-133 jpg_ga=GA1 1 1522314421" src="https://github.com/user-attachments/assets/72508d07-1c05-4dcf-a5f6-4ee8a107f053" />
