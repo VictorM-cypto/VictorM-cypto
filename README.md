@@ -16,7 +16,7 @@ ign="left">
 
 <a href= "https://www.linux.org/pages/download/"><img width="50" height="50" alt="linux-icon-svg-download-png-9057949" src="https://github.com/user-attachments/assets/e7b064f5-1aa2-4ed4-87fe-ca0444422083" /></a>
 
-<a href="https://www.java.com/es/download/manual.jsp"<img width="50" height="50" alt="free-java-logo-icon-svg-download-png-1720088" src="https://github.com/user-attachments/assets/a7582f58-a490-486d-966d-667132f46acf" /></a>
+<a href="https://www.java.com/es/download/manual.jsp"><img width="50" height="50" alt="free-java-logo-icon-svg-download-png-1720088" src="https://github.com/user-attachments/assets/a7582f58-a490-486d-966d-667132f46acf" /></a>
 </div>
 
 <br>
