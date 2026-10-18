@@ -21,9 +21,9 @@ ign="left">
 <img width="500" height="500" alt="java-programming-language-text_272306-133 jpg_ga=GA1 1 1522314421" src="https://github.com/user-attachments/assets/72508d07-1c05-4dcf-a5f6-4ee8a107f053" />
 
 <img width="500" height="500" alt="images" src="https://github.com/user-attachments/assets/1583418e-31ca-4cc5-b3a5-cd820fdab189" />
-<div style= "text-aling: center">
+
 <img width="500" height="500" alt="kirby-kirby-line-sticker" src="https://github.com/user-attachments/assets/3f315919-7c17-4823-a508-94513ad52f04" />
-</div>
+
 
 <!--
 **VictorM-cypto/VictorM-cypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
