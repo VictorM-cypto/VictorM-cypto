@@ -12,11 +12,11 @@ ign="left">
 <div>
 <a href= "https://code.visualstudio.com/download?_exp_download=d53503e735"><img width="50" height="50" alt="visual-studio-code-2019" src="https://github.com/user-attachments/assets/fa002291-fd9e-4447-b8d7-24839c9980c6" /></a>
 
-<img width="50" height="50" alt="php-icon-svg-download-png-3817962" src="https://github.com/user-attachments/assets/641b3248-c0a1-4da1-90a0-f7d2b0a3c3ea" />
+<a href= "https://www.php.net/downloads.php"><img width="50" height="50" alt="php-icon-svg-download-png-3817962" src="https://github.com/user-attachments/assets/641b3248-c0a1-4da1-90a0-f7d2b0a3c3ea" /></a>
 
-<img width="50" height="50" alt="linux-icon-svg-download-png-9057949" src="https://github.com/user-attachments/assets/e7b064f5-1aa2-4ed4-87fe-ca0444422083" />
+<a href= "https://www.linux.org/pages/download/"><img width="50" height="50" alt="linux-icon-svg-download-png-9057949" src="https://github.com/user-attachments/assets/e7b064f5-1aa2-4ed4-87fe-ca0444422083" /></a>
 
-<img width="50" height="50" alt="free-java-logo-icon-svg-download-png-1720088" src="https://github.com/user-attachments/assets/a7582f58-a490-486d-966d-667132f46acf" />
+<a href="https://www.java.com/es/download/manual.jsp"<img width="50" height="50" alt="free-java-logo-icon-svg-download-png-1720088" src="https://github.com/user-attachments/assets/a7582f58-a490-486d-966d-667132f46acf" /></a>
 </div>
 
 <br>
