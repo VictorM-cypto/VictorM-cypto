@@ -10,7 +10,7 @@
 <h2> 🚀  Algunas herramientas que he usado y aprendido</h2><p al
 ign="left">
 
-<img width="200" height="200" alt="visual-studio-code-2019" src="https://github.com/user-attachments/assets/fa002291-fd9e-4447-b8d7-24839c9980c6" />
+<img width="20" height="20" alt="visual-studio-code-2019" src="https://github.com/user-attachments/assets/fa002291-fd9e-4447-b8d7-24839c9980c6" />
 <br>
 
 <img width="500" height="313" alt="java-programming-language-text_272306-133 jpg_ga=GA1 1 1522314421" src="https://github.com/user-attachments/assets/72508d07-1c05-4dcf-a5f6-4ee8a107f053" />
