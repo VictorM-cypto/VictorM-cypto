@@ -10,11 +10,13 @@
 <h2> 🚀  Algunas herramientas que he usado y estoy aprendiendo a usar</h2><p al
 ign="left">
 
-<img width="50" height="50" alt="visual-studio-code-2019" src="https://github.com/user-attachments/assets/fa002291-fd9e-4447-b8d7-24839c9980c6" />
+<a href= "https://code.visualstudio.com/download?_exp_download=d53503e735"><img width="50" height="50" alt="visual-studio-code-2019" src="https://github.com/user-attachments/assets/fa002291-fd9e-4447-b8d7-24839c9980c6" /></a>
 
 <img width="50" height="50" alt="php-icon-svg-download-png-3817962" src="https://github.com/user-attachments/assets/641b3248-c0a1-4da1-90a0-f7d2b0a3c3ea" />
 
 <img width="50" height="50" alt="linux-icon-svg-download-png-9057949" src="https://github.com/user-attachments/assets/e7b064f5-1aa2-4ed4-87fe-ca0444422083" />
+
+<img width="50" height="50" alt="free-java-logo-icon-svg-download-png-1720088" src="https://github.com/user-attachments/assets/a7582f58-a490-486d-966d-667132f46acf" />
 
 
 <br>
